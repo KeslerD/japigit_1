@@ -1,0 +1,87 @@
+Enter the Symbol of a stock to get its' price or quit to exit 
+ Symbol: msft
+{
+    "Global Quote": {
+        "01. symbol": "MSFT",
+        "02. open": "162.6100",
+        "03. high": "163.1100",
+        "04. low": "156.0000",
+        "05. price": "161.5700",
+        "06. volume": "72821057",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "166.2700",
+        "09. change": "-4.7000",
+        "10. change percent": "-2.8267%"
+    }
+}
+The current price of MSFT is: 161.5700
+Enter the Symbol of a stock to get its' price or quit to exit 
+ Symbol:aapl
+{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "282.0000",
+        "03. high": "290.8200",
+        "04. low": "281.2300",
+        "05. price": "289.0300",
+        "06. volume": "56544246",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "292.9200",
+        "09. change": "-3.8900",
+        "10. change percent": "-1.3280%"
+    }
+}
+The current price of AAPL is: 289.0300
+Enter the Symbol of a stock to get its' price or quit to exit 
+ Symbol:sqqq
+{
+    "Global Quote": {
+        "01. symbol": "SQQQ",
+        "02. open": "23.1650",
+        "03. high": "23.6700",
+        "04. low": "21.8100",
+        "05. price": "22.0900",
+        "06. volume": "80420460",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "21.0400",
+        "09. change": "1.0500",
+        "10. change percent": "4.9905%"
+    }
+}
+The current price of SQQQ is: 22.0900
+Enter the Symbol of a stock to get its' price or quit to exit 
+ Symbol:qqq
+{
+    "Global Quote": {
+        "01. symbol": "QQQ",
+        "02. open": "204.6700",
+        "03. high": "209.1500",
+        "04. low": "202.9100",
+        "05. price": "208.0200",
+        "06. volume": "89828392",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "211.5900",
+        "09. change": "-3.5700",
+        "10. change percent": "-1.6872%"
+    }
+}
+The current price of QQQ is: 208.0200
+Enter the Symbol of a stock to get its' price or quit to exit 
+ Symbol:ko
+{
+    "Global Quote": {
+        "01. symbol": "KO",
+        "02. open": "54.9400",
+        "03. high": "55.9100",
+        "04. low": "53.9800",
+        "05. price": "55.2600",
+        "06. volume": "22351990",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "56.7400",
+        "09. change": "-1.4800",
+        "10. change percent": "-2.6084%"
+    }
+}
+The current price of KO is: 55.2600
+
+wait = input("")
